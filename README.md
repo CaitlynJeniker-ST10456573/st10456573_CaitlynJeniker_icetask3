@@ -1,9 +1,9 @@
-# st10456573_CaitlynJeniker_icetask3
+ # st10456573_CaitlynJeniker_icetask3
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Caitlyn Jneiker and I'm a junior software engineer, from Cape Town South Africa</p>
+<p align="left">My name is Caitlyn Jeniker and I'm a junior software engineer, from Cape Town South Africa</p>
 
 ###
 
