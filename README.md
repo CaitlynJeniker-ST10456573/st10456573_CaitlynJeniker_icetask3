@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Caitlyn Jneiker and I'm a junior software engineer, from Cape Town South Africa</p>
 
 ###
 
@@ -11,11 +11,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning java <br>🎯 Goals: my goal in life is to start my own IT business and also work for Amzaon or Google<br>🎲</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with java and python</h2>
 
 ###
 
@@ -23,6 +23,8 @@
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+
 
 
 </div>
